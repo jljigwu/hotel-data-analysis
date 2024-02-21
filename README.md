@@ -113,7 +113,7 @@ July	        28593
 May	        24258
 June	        22767
 April	        22440
-September	19794
+September       19794
 March	        18594
 October	        16530
 February        15042
@@ -124,26 +124,39 @@ November        7833
 
 -- Which room type is most frequently booked?
 reserved_room_type	room_type_count
-A	165207
-D	36204
-E	13014
-F	5343
-G	4257
-C	2136
-B	1797
-H	1233
-P	24
-L	18
+A	  165207
+D	  36204
+E  	  13014
+F	  5343
+G	  4257
+C	  2136
+B	  1797
+H	  1233
+P	  24
+L	  18
 
 
 -- Should we increase our parking lot size?
 arrival_date_year	hotel	parking_percentage
-2018	Resort Hotel	3.1%
-2020	Resort Hotel	2.86%
-2020	City Hotel	0.62%
-2018	City Hotel	0.54%
-2019	Resort Hotel	0%
-2019	City Hotel	0%
+2018	  Resort Hotel	  3.1%
+2020	  Resort Hotel	  2.86%
+2020	  City Hotel	  0.62%
+2018	  City Hotel	  0.54%
+2019	  Resort Hotel	  0%
+2019	  City Hotel	  0%
 ```
 
 ## Dashboard
+
+## Analysis
+1. **Hotel Revenue:** The hotel revenue has been increasing yearly. From 2018 to 2020, there is a significant growth in revenue, with the highest revenue recorded in 2020. There is no need to change a strategy of developing.
+   
+2. **Cancellation Rate:** The City Hotel has a higher cancellation rate (53.1%) compared to the Resort Hotel (41.84%). This could be due to various factors such as pricing, customer service, location, etc. Further analysis needs to be performed.
+
+3. **Guest Nationality:** Guests from Portugal (PRT) visit both the City Hotel and Resort Hotel the most, followed by guests from France (FRA) and Great Britain (GBR) for the City Hotel, and Great Britain (GBR) and Ireland (IRL) for the Resort Hotel.
+
+4. **Bookings by Month:** The highest number of bookings are made in August, followed by July and May. This could be due to the summer holidays when people tend to travel more.
+
+5. **Room Type:** Room type ‘A’ is the most frequently booked, followed by ‘D’ and ‘E’. This could indicate a preference for these room types among guests. This should be taken into account when building new hotels or renovating them
+
+6. **Parking size :** The parking usage is relatively low for both hotels, with the highest percentage being 3.1% for the Resort Hotel in 2018. This suggests that most guests do not bring cars, possibly due to other forms of transportation being more convenient. Therefore, it may not be necessary to increase the parking lot size.
