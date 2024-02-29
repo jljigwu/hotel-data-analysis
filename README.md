@@ -147,6 +147,7 @@ arrival_date_year	hotel	parking_percentage
 ```
 
 ## Dashboard
+https://github.com/jljigwu/hotel-data-analysis/blob/main/hotel_dashboard.pdf
 
 ## Analysis
 1. **Hotel Revenue:** The hotel revenue has been increasing yearly. From 2018 to 2020, there is a significant growth in revenue, with the highest revenue recorded in 2020. There is no need to change a strategy of developing.
