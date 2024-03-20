@@ -154,9 +154,9 @@ https://github.com/jljigwu/hotel-data-analysis/blob/main/hotel_dashboard.pdf
    
 2. **Cancellation Rate:** The City Hotel has a higher cancellation rate (53.1%) compared to the Resort Hotel (41.84%). This could be due to various factors such as pricing, customer service, location, etc. Further analysis needs to be performed.
 
-3. **Guest Nationality:** Guests from Portugal (PRT) visit both the City Hotel and Resort Hotel the most, followed by guests from France (FRA) and Great Britain (GBR) for the City Hotel, and Great Britain (GBR) and Ireland (IRL) for the Resort Hotel.
+3. **Guest Nationality:** Guests from Portugal (PRT) visit both the City Hotel and Resort Hotel the most, followed by guests from France (FRA) and Great Britain (GBR) for the City Hotel, and Great Britain (GBR) and Ireland (IRL) for the Resort Hotel. We can add more signs and subtitles with fhose languages.
 
-4. **Bookings by Month:** The highest number of bookings are made in August, followed by July and May. This could be due to the summer holidays when people tend to travel more.
+4. **Bookings by Month:** The highest number of bookings are made in August, followed by July and May. Probably due to the summer holidays when people tend to travel more. 
 
 5. **Room Type:** Room type ‘A’ is the most frequently booked, followed by ‘D’ and ‘E’. This could indicate a preference for these room types among guests. This should be taken into account when building new hotels or renovating them
 
